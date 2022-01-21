@@ -1,6 +1,25 @@
-## Portfolio
+## Welcome
 
 ---
+
+I am an data scientist with a passion in the advancement of technology for the betterment of humanity.
+
+Often when I think about digital transformations, the Myth of Sisyphus comes to mind.
+
+The Myth of Sisyphus is a Greek myth of a king of Corinth, punished in Hades for his misdeeds by eternally having to roll a heavy stone up a hill: every time he approached the top, the stone escaped his grasp and rolled to the bottom
+
+Developing a software solution can easily turn into a Sisyphean task - once you think you have it all figured out, everything falls down into pieces!
+
+I am passionate to engage in processes that lead to value discovery with a transformation agenda. I have hands on experience in identifying and planning for the future state of enterprise technology environments while incorporating new solutions that create a strategic advantage and expanded business growth.
+
+That said I am a life-long learner and energized by solving new problems and transforming how our clients think.
+
+
+Skills: Data analysis, R/Shiny, Python, SQL,Neo4J
+
+Academic: BDS, MSc (Med Stats), MDI(Ongoing)
+
+
 
 ### Category Name 1 
 
