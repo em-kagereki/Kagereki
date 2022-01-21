@@ -16,12 +16,10 @@ That said I am a life-long learner and energized by solving new problems and tra
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[My Projects](/sample_page) [Project 2 Title](/pdf/sample_presentation.pdf)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
 
 ---
 [Project 3 Title](http://example.com/)
