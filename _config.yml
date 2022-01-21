@@ -1,11 +1,19 @@
 title: Edwin Kagereki # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+
   First description 
+ Often when I think about digital transformations, the Myth of Sisyphus comes to mind.
+
+The Myth of Sisyphus is a Greek myth of a king of Corinth, punished in Hades for his misdeeds by eternally having to roll a heavy stone up a hill: every time he approached the top, the stone escaped his grasp and rolled to the bottom
+
+Developing a software solution can easily turn into a Sisyphean task - once you think you have it all figured out, everything falls down into pieces!
+
+I am passionate to engage in processes that lead to value discovery with a transformation agenda. I have hands on experience in identifying and planning for the future state of enterprise technology environments while incorporating new solutions that create a strategic advantage and expanded business growth.
+
+That said I am a life-long learner and energized by solving new problems and transforming how our clients think.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/edwin-kagereki/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
