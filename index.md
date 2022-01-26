@@ -12,7 +12,12 @@ I am passionate to engage in processes that lead to value discovery with a trans
 
 That said I am a life-long learner and energized by solving new problems and transforming how our clients think.
 
-
+<div class="downlinks">
+  <a class="active" href="https://em-kagereki.github.io/Kagereki/Projects">My Projects</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+</div>
 
 # [About](http://example.com/) | [My Projects](/sample_page) | [Publications](/pdf/sample_presentation.pdf) 
 
