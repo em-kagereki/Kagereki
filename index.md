@@ -16,11 +16,12 @@ That said I am a life-long learner and energized by solving new problems and tra
 
 # [About](http://example.com/) | [My Projects](/sample_page) | [Publications](/pdf/sample_presentation.pdf) 
 
+<p <a href="https://github.com/evanca/quick-portfolio"># evanca</a></p>
 
 Get in touch at kagereki@dal.ca. bg
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://em-kagereki.github.io/Kagereki/Projects">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
