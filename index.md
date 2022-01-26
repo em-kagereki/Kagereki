@@ -14,7 +14,7 @@ That said I am a life-long learner and energized by solving new problems and tra
 
 
 
-# [About](http://example.com/) | <a href="https://em-kagereki.github.io/Kagereki/Projects"> My Projects</a> | [Publications](/pdf/sample_presentation.pdf) 
+#  <a href="https://em-kagereki.github.io/Kagereki/about"> About</a>  | <a href="https://em-kagereki.github.io/Kagereki/Projects"> My Projects</a> | <a href="https://em-kagereki.github.io/Kagereki/publications"> Publications</a>   
 
 
 Get in touch at kagereki@dal.ca. bg
