@@ -14,7 +14,7 @@ That said I am a life-long learner and energized by solving new problems and tra
 
 
 
-# [About](http://example.com/) | [My Projects](/Kagereki/sample_page/) | [Publications](/pdf/sample_presentation.pdf) 
+# [About](http://example.com/) | [My Projects](https://em-kagereki.github.io/Kagereki/sample_page) | [Publications](/pdf/sample_presentation.pdf) 
 
 
 Get in touch at kagereki@dal.ca
