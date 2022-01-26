@@ -16,7 +16,7 @@ That said I am a life-long learner and energized by solving new problems and tra
 
 # [About](http://example.com/) | [My Projects](/sample_page) | [Publications](/pdf/sample_presentation.pdf) 
 
-<p <a href="https://github.com/evanca/quick-portfolio"># evanca</a></p>
+<a href="https://em-kagereki.github.io/Kagereki/Projects"> # evanca</a>
 
 Get in touch at kagereki@dal.ca. bg
 
