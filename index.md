@@ -17,7 +17,7 @@ That said I am a life-long learner and energized by solving new problems and tra
 # [About](http://example.com/) | [My Projects](/sample_page) | [Publications](/pdf/sample_presentation.pdf) 
 
 
-Get in touch at kagereki@dal.ca TODAY.
+Get in touch at kagereki@dal.ca today.
 
 
 
