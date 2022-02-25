@@ -5,8 +5,10 @@
 
 1. [ Data analysis. ](#desc)
       -   [ Graph analysis. ](#graph) 
-3. [Statistical computing. ](#Rpackage)
-4. [ AI. ](#usage)
+2. [Statistical computing. ](#Rpackage)
+       -   [ RPerio. ](#Rperio) 
+3. [ AI. ](#AI)
+       -   [ Data mining. ](#mining) 
 
 <a name="desc"></a>
 ## 1. Data analysis
@@ -20,49 +22,24 @@ Project repository:  <a href="https://github.com/em-kagereki/Graph-analysis">em-
 <br>
 This analysis sought to identify the crucial genes in BTC and thereafter identify potential linkages with  site specific  chemotherapeutic compounds.
 
-<a name="usage"></a>
-## 2. Artificial Intelligence
-
-sometext
-
-
 <a name="Rpackage"></a>
 ## 2. Statistical Computing
-
+<a name="Rperio"></a>
 ### RPerio: A collection of tools for Case Definitions and prevalences in Population-Based Surveillance of Periodontitis. 
 
 Project repository:  <a href="https://github.com/em-kagereki/RPerio">em-kagereki/RPerio </a> 
 
 Tools for Case Definitions and prevalences in Population-Based Surveillance of Periodontitis A collection of tools for Case Definitions and prevalences in Population-Based Surveillance of Periodontitis. The functionality is experimental and functions are likely to changein the future. This is based on the fact that periodontal case definitions is a rapidly changing ares. The functions hereby are based on the CDC Working Group (2010), as well as the 5thEuropean workshop in Periodontology case definitions. However, if you come acroos ideas interesting we would be very interested in a discussion of this proposal. Contributions are more than welcome!
 
+<a name="AI"></a>
+## 2. Artificial Intelligence
 
-
-#Bile tract cancer
-
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+<a name="mining"></a>
+### PREDICTIVE MODELING OF ICU PATIENTS WITH SUSPECTED ACUTE CORONARY SYNDROMES
+ Project repository:  <a href="https://github.com/em-kagereki/Data-Mining">em-kagereki/Data-Mining </a> 
+ 
+ Participated in the design of an artificial intelligence system. 
+ Utilized statistical concepts in investigating fraud, detection and developing risk profile using historic claims.
+ Effectively implemented data standardization and ontology to claim data to improve on interoperability
 
 
