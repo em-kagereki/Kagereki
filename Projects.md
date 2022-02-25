@@ -1,8 +1,8 @@
 #  <a href="https://em-kagereki.github.io/Kagereki"> About</a>  | <a href="https://em-kagereki.github.io/Kagereki/Projects"> My Projects</a> | <a href="https://em-kagereki.github.io/Kagereki/publications"> Publications</a>   
 
-## Project title: Expert-augmented network analysis to for drug repurposing in bile tract cancer. 
+### Project 1: Expert-augmented network analysis to for drug repurposing in bile tract cancer. 
 
-Project repository: 
+Project repository:  <a href="https://github.com/em-kagereki/Graph-analysis">em-kagereki/Graph-analysis </a> 
 
 **Project description:** Bile tract cancer is a cluster of highly heterogeneous & aggressive malignant tumour that can arise at any point of the biliary tree. Different anatomical sites and genetic aberrations contribute to this heterogeneity.These  BTC sub types have different prognosis and response to therapy.
 <br>
