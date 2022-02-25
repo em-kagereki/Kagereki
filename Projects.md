@@ -1,8 +1,13 @@
-#  <a href="https://em-kagereki.github.io/Kagereki/about"> About</a>  | <a href="https://em-kagereki.github.io/Kagereki/Projects"> My Projects</a> | <a href="https://em-kagereki.github.io/Kagereki/publications"> Publications</a>   
+#  <a href="https://em-kagereki.github.io/Kagereki"> About</a>  | <a href="https://em-kagereki.github.io/Kagereki/Projects"> My Projects</a> | <a href="https://em-kagereki.github.io/Kagereki/publications"> Publications</a>   
 
-## This can be your internal website page / project page
+## Project title: Expert-augmented network analysis to for drug repurposing in bile tract cancer. 
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Project repository: 
+
+**Project description:** Bile tract cancer is a cluster of highly heterogeneous & aggressive malignant tumour that can arise at any point of the biliary tree. Different anatomical sites and genetic aberrations contribute to this heterogeneity.These  BTC sub types have different prognosis and response to therapy.
+<br>
+This analysis sought to identify the crucial genes in BTC and thereafter identify potential linkages with  site specific  chemotherapeutic compounds.
+
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
