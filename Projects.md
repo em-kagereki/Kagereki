@@ -1,6 +1,18 @@
 #  <a href="https://em-kagereki.github.io/Kagereki"> About</a>  | <a href="https://em-kagereki.github.io/Kagereki/Projects"> My Projects</a> | <a href="https://em-kagereki.github.io/Kagereki/publications"> Publications</a>   
 
-### Project 1: Expert-augmented network analysis to for drug repurposing in bile tract cancer. 
+
+## Table of content
+
+1. [ Data analysis. ](#desc)
+      -   [ Graph analysis. ](#graph) 
+3. [Statistical computing. ](#Rpackage)
+4. [ AI. ](#usage)
+
+<a name="desc"></a>
+## 1. Data analysis
+
+<a name="graph"></a>
+### Project Description: Expert-augmented network analysis to for drug repurposing in bile tract cancer. 
 
 Project repository:  <a href="https://github.com/em-kagereki/Graph-analysis">em-kagereki/Graph-analysis </a> 
 
@@ -8,6 +20,24 @@ Project repository:  <a href="https://github.com/em-kagereki/Graph-analysis">em-
 <br>
 This analysis sought to identify the crucial genes in BTC and thereafter identify potential linkages with  site specific  chemotherapeutic compounds.
 
+<a name="usage"></a>
+## 2. Artificial Intelligence
+
+sometext
+
+
+<a name="Rpackage"></a>
+## 2. Statistical Computing
+
+### RPerio: A collection of tools for Case Definitions and prevalences in Population-Based Surveillance of Periodontitis. 
+
+Project repository:  <a href="https://github.com/em-kagereki/RPerio">em-kagereki/RPerio </a> 
+
+Tools for Case Definitions and prevalences in Population-Based Surveillance of Periodontitis A collection of tools for Case Definitions and prevalences in Population-Based Surveillance of Periodontitis. The functionality is experimental and functions are likely to changein the future. This is based on the fact that periodontal case definitions is a rapidly changing ares. The functions hereby are based on the CDC Working Group (2010), as well as the 5thEuropean workshop in Periodontology case definitions. However, if you come acroos ideas interesting we would be very interested in a discussion of this proposal. Contributions are more than welcome!
+
+
+
+#Bile tract cancer
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
