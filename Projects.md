@@ -6,9 +6,9 @@
 1. [ Data analysis. ](#desc)
       -   [ Graph analysis. ](#graph) 
 2. [Statistical computing. ](#Rpackage)
-       -   [ RPerio. ](#Rperio) 
+      -   [ RPerio. ](#Rperio) 
 3. [ AI. ](#AI)
-       -   [ Data mining. ](#mining) 
+      -   [ Data mining. ](#mining) 
 
 <a name="desc"></a>
 ## 1. Data analysis
